@@ -1,0 +1,9 @@
+﻿  Algo6_3.cpp
+C:\Users\lorna\SAE Institute\EX-6.3\Algorithmes6.3\Algorithmes6.3\Algo6_3.cpp(12,20): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\EX-6.3\Algorithmes6.3\Algorithmes6.3\Algo6_3.cpp(14,21): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\EX-6.3\Algorithmes6.3\Algorithmes6.3\Algo6_3.cpp(25,20): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\EX-6.3\Algorithmes6.3\Algorithmes6.3\Algo6_3.cpp(35,20): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\EX-6.3\Algorithmes6.3\Algorithmes6.3\Algo6_3.cpp(48,20): warning C4018:  '<' : incompatibilité signed/unsigned
+C:\Users\lorna\SAE Institute\EX-6.3\Algorithmes6.3\Algorithmes6.3\Algo6_3.cpp(112,12): warning C4244:  'argument' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\lorna\SAE Institute\EX-6.3\Algorithmes6.3\Algorithmes6.3\Algo6_3.cpp(134,22): warning C4018:  '<' : incompatibilité signed/unsigned
+  Algorithmes6.3.vcxproj -> C:\Users\lorna\SAE Institute\EX-6.3\Algorithmes6.3\Debug\Algorithmes6.3.exe
